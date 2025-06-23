@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trbxai"
+version = "0.1.0"
+description = "Explainable AI tools for prodromes and synthetic data in neuroscience"
+authors = [
+  { name="Dante Trabassi", email="dantetrabassi@gmail.com" }
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+dependencies = [
+  "shap",
+  "pandas",
+  "scikit-learn",
+  "numpy",
+  "matplotlib",
+  "seaborn",
+  "ctgan"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/DanteTrb/trbxai"
+"Bug Tracker" = "https://github.com/DanteTrb/trbxai/issues"
