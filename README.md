@@ -55,7 +55,7 @@ from trbxai.explain.shapset_explainer import get_shap_values
 shap_values, explainer = get_shap_values(model, X, feature_names=X.columns.tolist())
 
 ## 🧪 Clinical Use Case
-You have only 56 patients with hereditary ataxia. You want to:
+You have only 46 patients with hereditary cerebellar ataxia. You want to:
 Augment the dataset with synthetic patients
 Train a robust classifier
 Understand which gait variables predict disease
