@@ -77,7 +77,7 @@ To run all tests:
 pytest
 
 ## 📘 Docs and Examples
-🧪 Example notebooks (coming soon)
+🧪 Example notebooks (coming soon, stay tuned)
 
 🧠 Streamlit app integration (in development)
 
