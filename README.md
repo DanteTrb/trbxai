@@ -1,4 +1,4 @@
-# 🧠 trbxai — Trustworthy & Explainable AI for Clinical and Synthetic Health Data
+# 🧠 trbxai — Trustworthy & Explainable AI for Clinical and Synthetic Health Data (coming soon)
 
 <p align="center">
   <picture>
